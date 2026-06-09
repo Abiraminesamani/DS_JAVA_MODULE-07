@@ -3,9 +3,8 @@
 ## DATE:11.11.2025  
 
 ### Developed by
-**Name:** Shanmuga Vasanth M
-
-**Register Number:** 212223040191 
+**Name:** ABIRAMI N
+**Register Number:** 212224220005
 
 ## AIM:
 To write a Java program to:  
